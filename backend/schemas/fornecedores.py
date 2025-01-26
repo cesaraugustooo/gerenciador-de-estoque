@@ -10,4 +10,5 @@ class FornecedorCreate(BaseModel):
     nome : str
     email : str
     numero : str
+    usuario_id :int
 
